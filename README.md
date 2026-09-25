@@ -10,15 +10,14 @@
 
 ---
 
-```sh
-ex1side@android:~$ whoami
-> kotlin + compose — clean clients + real backend integration
-
-stack.android = [Kotlin, Compose, Coroutines/Flow, Retrofit/Ktor, Hilt, Room, Coil]
-stack.lab = [Nuxt, Elysia, Supabase, Firebase]
-
-now = Polygram [private] — full-stack build, in_progress
-contact = ex1side@tuta.io
+```kotlin
+val ex1side = androidDev {
+    level = "junior" // kotlin-first, ai-assisted
+    core = listOf("Kotlin", "Compose", "Coroutines/Flow", "Retrofit/Ktor", "Hilt", "Room", "Coil")
+    lab = listOf("Nuxt", "Elysia", "Supabase", "Firebase")
+    now = "Polygram [private] // in_progress"
+    contact = "ex1side@tuta.io"
+}
 ```
 
 <div align="center">
