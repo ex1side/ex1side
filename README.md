@@ -6,6 +6,12 @@
 
 <sub>junior · kotlin-first · ai-assisted · open to junior roles</sub>
 
+![Kotlin](https://img.shields.io/badge/Kotlin-0A0A0B?style=flat-square&logo=kotlin&logoColor=22D3EE)
+![Jetpack Compose](https://img.shields.io/badge/Compose-0A0A0B?style=flat-square&logo=jetpackcompose&logoColor=22D3EE)
+![Android](https://img.shields.io/badge/Android-0A0A0B?style=flat-square&logo=android&logoColor=22D3EE)
+![Supabase](https://img.shields.io/badge/Supabase-0A0A0B?style=flat-square&logo=supabase&logoColor=22D3EE)
+[![Mail](https://img.shields.io/badge/ex1side@tuta.io-0A0A0B?style=flat-square&logoColor=22D3EE)](mailto:ex1side@tuta.io)
+
 </div>
 
 ---
